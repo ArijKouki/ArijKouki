@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arij Kouki</h1>
 <h3 align="center">An AI-Driven Software Engineering Student</h3>
 
-<h3>🚀 What I Do</h3>
+<h3>What I Do</h3>
 
 - 🌐 **Web Development:** Crafting responsive and dynamic web applications using cutting-edge technologies.
 - 📱 **Mobile Development:** Building sleek and user-friendly mobile apps for iOS and Android platforms.
